@@ -3,9 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Datos%20Usuario/Desktop/DEVELOPMENT/JavaAvanzado/EJERCICIOS%20PRACTICA/GachaPokemonMLG/src/Test/GachaPokemonMLG.java</file>
+            <file>file:/D:/Datos%20Usuario/Desktop/DEVELOPMENT/JavaAvanzado/EJERCICIOS%20PRACTICA/GachaPokemonMLG/src/Controllers/GenerationMenu.java</file>
             <file>file:/D:/Datos%20Usuario/Desktop/DEVELOPMENT/JavaAvanzado/EJERCICIOS%20PRACTICA/GachaPokemonMLG/src/Sources/listadepokes.txt</file>
+            <file>file:/D:/Datos%20Usuario/Desktop/DEVELOPMENT/JavaAvanzado/EJERCICIOS%20PRACTICA/GachaPokemonMLG/src/Test/RandomPokemonGeneratorMLG.java</file>
             <file>file:/D:/Datos%20Usuario/Desktop/DEVELOPMENT/JavaAvanzado/EJERCICIOS%20PRACTICA/GachaPokemonMLG/src/Models/Pokemon.java</file>
+            <file>file:/D:/Datos%20Usuario/Desktop/DEVELOPMENT/JavaAvanzado/EJERCICIOS%20PRACTICA/GachaPokemonMLG/src/Utils/SpecificListManipulation.java</file>
+            <file>file:/D:/Datos%20Usuario/Desktop/DEVELOPMENT/JavaAvanzado/EJERCICIOS%20PRACTICA/GachaPokemonMLG/src/Utils/MyFileReader.java</file>
         </group>
     </open-files>
 </project-private>

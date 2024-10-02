@@ -33,6 +33,40 @@ public class Pokemon {
         }
     }
 
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public int getPotencial() {
+        return potencial;
+    }
+
+    public void setPotencial(int potencial) {
+        this.potencial = potencial;
+    }
+
+    public int getGeneracion() {
+        return generacion;
+    }
+
+    public void setGeneracion(int generacion) {
+        this.generacion = generacion;
+    }
+
+    public ImageIcon getGif() {
+        return gif;
+    }
+
+    public void setGif(ImageIcon gif) {
+        this.gif = gif;
+    }
+
+    
+    
     @Override
     public String toString() {
         return "Pokemon{" + "nombre=" + nombre + ", potencial=" + potencial + ", generacion=" + generacion +  '}';
