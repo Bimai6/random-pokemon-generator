@@ -60,7 +60,7 @@ public class GenerationMenu extends JFrame {
         pokeGif.setHorizontalAlignment(JLabel.CENTER);  // Centrar la imagen
 
         // Placeholder inicial
-        ImageIcon placeholderIcon = new ImageIcon("src/Sources/missigno.png");
+        ImageIcon placeholderIcon = new ImageIcon("src/Sources/spr_5_substitute.png");
         pokeGif.setIcon(placeholderIcon);
 
         // Añadir la etiqueta de imagen al panel de imagen
